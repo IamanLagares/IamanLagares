@@ -1,4 +1,4 @@
-### Bem vindo! Eu sou o Iaman.🖐🥇
+### Welcome! I'm Iaman🖐🥇
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IamanLagares&show_icons=true&theme=dark#gh-dark-mode-only)]()
 
